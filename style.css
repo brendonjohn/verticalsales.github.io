@@ -1,5 +1,6 @@
 body {
 	background-color: aliceblue;
+	font-family: "mr-eaves-xl-modern",sans-serif;
 }
 body > div#container {
 	padding: 20px;
@@ -28,6 +29,9 @@ header > div {
 }
 
 header > div > h1 {
+	font-family: "le-monde-livre-classic-sc",serif;
+	font-style: normal;
+	font-weight: 500;
     font-size: 5rem;
     margin-bottom: 0.25rem;
     padding-right: 0.05em;
